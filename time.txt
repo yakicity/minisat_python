@@ -1,0 +1,6 @@
+6queen
+
+process time: 0.027995586395263672
+
+the number of solution: 4
+
